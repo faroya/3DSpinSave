@@ -16,9 +16,9 @@ This repository contains a Python script that visualizes a 3D mesh, rotates it, 
 
 To install the required packages, run:
 
-```bash
+\```
 pip install open3d numpy opencv-python Pillow IPython
-
+\```
 
 ## Usage
 
